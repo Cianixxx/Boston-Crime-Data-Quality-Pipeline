@@ -52,8 +52,8 @@ To quantitatively prove the impact of the data quality pipeline, a controlled do
 
 Developed as a group project in the Master's program in Computer Science at Politecnico di Milano:
 
-    Daniele Spini (279837)
+    Daniele Spini 
 
-    Oksana Batonova (274392)
+    Oksana Batonova 
 
-    Seyed Ali Chavoshian (250888)
+    Seyed Ali Chavoshian 
